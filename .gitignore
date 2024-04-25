@@ -9,3 +9,6 @@ OLD/
 *.BIN
 *.img
 lib/
+p8demo/demo.asm
+p8demo/demo.vice-mon-list
+p8demo/prog8.bat
